@@ -296,7 +296,7 @@ namespace Adventure_Game
                 morality = morality + 6;
                 timeRemaining = timeRemaining - 1;
                 continueGame();
-            }
+            }//hi
         }
         private void continueGame()//to keep to story moving after every part
         {
